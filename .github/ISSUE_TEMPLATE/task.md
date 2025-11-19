@@ -3,7 +3,15 @@ name: 작업 카드 템플릿
 about: 개발/기능/버그 등 모든 칸반 카드 공통 템플릿
 title: "[TASK] 제목을 입력하세요"
 labels: []
-assignees: ""
+assignees:
+  - bunyung
+  - hia1394
+  - moinji
+  - qlzmfl0714123
+  - sehuikim02
+  - sosoo208
+  - younggyu01
+  - yunyami0605
 ---
 
 ## 작성 형식
