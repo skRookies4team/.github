@@ -1,48 +1,22 @@
 ---
 name: 작업 카드 템플릿
 about: 개발/기능/버그 등 모든 칸반 카드 공통 템플릿
-title: "[TASK] 제목을 입력하세요"
+title: "[Front/Back/Ai/Infra/기획/산출물] 제목을 입력하세요"
 labels: []
 assignees:
-  - bunyung
-  - hia1394
-  - moinji
-  - qlzmfl0714123
-  - sehuikim02
-  - sosoo208
-  - younggyu01
-  - yunyami0605
 ---
 
-## 작성 형식
+## 🎯 작업 목적 (요약)
 
-- Frontend, Backend, AI, Infra, 기획 및 산출물
+- ex) 프론트 로그인 화면 ui 구현
 
-## 🎯 작업 목적
-
-- 어떤 문제/기능을 해결하기 위한 작업인가요?
-
-## 🧩 작업 범위
-
-- [ ] Frontend
-- [ ] Backend
-- [ ] AI
-- [ ] Infra
-- [ ] 기획 및 산출물
-
-## ✔ 체크리스트
+## ✔ 작업 체크리스트
 
 - [ ] 기획/요구사항 확인
 
 ## ⚙️ 예상 산출물
 
-- 어떤 결과물이 나와야 하나요?
-- API / 화면 / 로직 등
-
-## 📆 일정
-
-- 시작일: 2025.11.18
-- 예상 종료일: 2025.11.20
+- ex) 기능명세서
 
 ## 📎 참고 자료
 

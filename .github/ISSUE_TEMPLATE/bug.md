@@ -4,14 +4,6 @@ about: 서비스 오류/예외 동작/버그를 보고하기 위한 템플릿
 title: "[BUG] 버그 제목을 입력하세요"
 labels: ["bug"]
 assignees:
-  - bunyung
-  - hia1394
-  - moinji
-  - qlzmfl0714123
-  - sehuikim02
-  - sosoo208
-  - younggyu01
-  - yunyami0605
 ---
 
 ## 🔥 버그 설명
